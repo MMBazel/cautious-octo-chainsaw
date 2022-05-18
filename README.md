@@ -1,2 +1,3 @@
 # cautious-octo-chainsaw
-Repo for project from MadewithML course
+
+This is the repo for the project that comes out of & is generated from MadeWithML
